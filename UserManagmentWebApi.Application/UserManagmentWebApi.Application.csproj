@@ -6,4 +6,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Common\Filters\" />
+    <Folder Include="Common\Mappers\" />
+    <Folder Include="Common\Security\" />
+    <Folder Include="DI\DbContextInjection\" />
+    <Folder Include="DI\ServiceInjection\" />
+    <Folder Include="DI\ServiceRegistrationInjection\" />
+    <Folder Include="DI\RepositoriesInjection\" />
+    <Folder Include="Services\" />
+    <Folder Include="RepositoriesInterfaces\" />
+  </ItemGroup>
+
 </Project>
