@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace UserManagmentWebApi.Infrastructure.Persistance.Data
 {
-    internal class AppDbContext
+    public class AppDbContext
     {
+
     }
 }
