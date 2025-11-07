@@ -12,7 +12,7 @@
 
   <ItemGroup>
     <Folder Include="Common\Extension\MiddleWareExtension\" />
-    <Folder Include="Common\Extension\Swagger\" />
+    <Folder Include="Common\Swagger\" />
   </ItemGroup>
 
 </Project>
